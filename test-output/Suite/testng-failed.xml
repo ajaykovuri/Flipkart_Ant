@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="test.java.resources.OpenPositions">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="initialize"/>
+          <include name="browse_flipkart"/>
+        </methods>
+      </class> <!-- test.java.resources.OpenPositions -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
